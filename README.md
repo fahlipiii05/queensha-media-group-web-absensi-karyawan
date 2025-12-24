@@ -1,24 +1,21 @@
-# Aplikasi Absensi Karyawan Berbasis Web & RFID
-Aplikasi absensi karyawan merupakan aplikasi absen menggunakan RFID (Radio Frequency Identification)
+# Web Absensi Karyawan – Quensha Media Group
+Project Kerja Praktek (KP)
 
-[![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com) [![Windows](https://badgen.net/badge/icon/windows?icon=windows&label)](https://microsoft.com/windows/)
+## Deskripsi 
+Aplikasi web absensi karyawan untuk digunakan oleh Quensha Media Group
+untuk mencatat kehadiran, jam masuk, jam pulang, dan rekap absensi.
 
-## Instalation
-Pindahkan folder absen_karyawan ke dalam folder :
-```
-C:\xampp\htdocs
-```
-Start apache pada xampp
+## Tech Stack
+- PHP (Native / Framework ?)
+- MySQL
+- Bootstrap
+- JavaScript
+- Hosting Lokal / Server Internal
 
-Akses pada browser dengan url
+## Fitur Utama
+- Login karyawan & admin
+- Absensi masuk & pulang
+- Rekap absensi harian & bulanan
+- Export data absensi
+- Manajemen data karyawan
 
-Halaman-admin : 
-```
-http://localhost/absen_karyawan/index.php
-```
-Halaman-karyawan : 
-```
-http://localhost/absen_karyawan/mobile/index.php
-```
-
-[![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://saweria.co/farhanenre202038)
